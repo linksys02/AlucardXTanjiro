@@ -122,7 +122,7 @@ function startTimer() {
 
         // If executed then Youtube Watch is done LASTLY
         // Depends on how much time the video is
-        if (totalSeconds >= 10 && (identifier === 'watch')) {
+        if (minutes >= 10 && (identifier === 'watch')) {
             clearInterval(timerInterval);
           
             watchButtonA.style.backgroundColor = 'green';
