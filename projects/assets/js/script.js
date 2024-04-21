@@ -143,9 +143,9 @@ function startTimer() {
 
 function linkForLikeShareWatch(){
   if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-      window.open("https://youtu.be/y4HSzofiZfU?si=DP5ps28j-qzPDDHU");//aldousXsaitama
+      window.open("https://youtu.be/62hfF8fH3_k?si=uTUf3Y6DuuzbEm7v");//aldousXsaitama
 } else {
-    window.open("https://youtu.be/y4HSzofiZfU?si=DP5ps28j-qzPDDHU", "_blank");//aldousXsaitama   
+    window.open("https://youtu.be/62hfF8fH3_k?si=uTUf3Y6DuuzbEm7v", "_blank");//aldousXsaitama   
 }
 }
 
